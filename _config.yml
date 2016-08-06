@@ -6,9 +6,9 @@ color:
   saturation: 0.2285095362458378
   rhythmicContrast: 0.9281044451054186
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: AVIDA
