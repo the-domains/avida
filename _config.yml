@@ -1,4 +1,3 @@
-layout_spectrum: 0.5496135505381972
 typography_spectrum: 0.5423993426375091
 color:
   brandStrength: 0.42336869332939386
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.5496135505381972
 name: AVIDA
 title: Jonny Polo
+description: Custom Workwear
